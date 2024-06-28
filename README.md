@@ -10,6 +10,5 @@
 
 ### COG Eliminar Mensajes ###
 Eliminar los mensajes escritos en el canal que se ejecuta el comando.
-Comandos:
   - clean (cantidad de mensajes).
   - cleanUser (@usuario) (cantidad de mensajes).
