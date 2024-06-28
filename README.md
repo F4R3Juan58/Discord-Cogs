@@ -6,9 +6,12 @@
 
 ### COGS ###
 - Eliminar Mensajes.
+- Contador de usuarios.
 
 
 ### COG Eliminar Mensajes ###
 Eliminar los mensajes escritos en el canal que se ejecuta el comando.
   - clean (cantidad de mensajes).
   - cleanUser (@usuario) (cantidad de mensajes).
+
+### COG CONTADOR DE USUARIO ###
